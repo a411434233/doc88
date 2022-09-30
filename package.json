@@ -1,0 +1,7 @@
+{
+  "name": "doc88",
+  "version": "1.0.0",
+  "dependencies": {
+    "puppeteer": "^18.0.5"
+  }
+}
